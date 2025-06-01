@@ -1,0 +1,15 @@
+/* Selects all <p> elements */
+p {
+    color: blue;
+  }
+  
+  /* Selects an element by ID */
+  #header {
+    font-size: 24px;
+  }
+  
+  /* Selects elements by class */
+  .button {
+    background-color: lightblue;
+  }
+  
